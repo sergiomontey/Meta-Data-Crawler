@@ -6,7 +6,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458.svg)
 ![NetworkX](https://img.shields.io/badge/NetworkX-Graphs-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)
+
 
 > **A comprehensive desktop application for crawling databases, APIs, and files to build a central metadata repository** - Automatically generate data dictionaries, map data lineage, and create comprehensive schema documentation for governance, compliance, and architectural understanding.
 
