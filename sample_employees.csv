@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department,salary,hire_date,email
+1001,Michael,Chen,Engineering,95000,2020-01-15,michael.chen@company.com
+1002,Sarah,Johnson,Marketing,72000,2019-06-20,sarah.johnson@company.com
+1003,David,Williams,Engineering,88000,2021-03-10,david.williams@company.com
+1004,Emily,Davis,Sales,68000,2020-09-05,emily.davis@company.com
+1005,James,Martinez,Engineering,92000,2018-11-22,james.martinez@company.com
+1006,Lisa,Anderson,HR,65000,2021-07-14,lisa.anderson@company.com
+1007,Robert,Taylor,Finance,78000,2019-04-18,robert.taylor@company.com
+1008,Jennifer,Thomas,Marketing,70000,2020-12-01,jennifer.thomas@company.com
+1009,William,Moore,Sales,71000,2021-02-28,william.moore@company.com
+1010,Amanda,Jackson,Engineering,89000,2019-08-15,amanda.jackson@company.com

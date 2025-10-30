@@ -1,0 +1,69 @@
+{
+  "api_version": "2.0",
+  "data": {
+    "users": [
+      {
+        "user_id": 1,
+        "username": "johndoe",
+        "profile": {
+          "full_name": "John Doe",
+          "age": 32,
+          "location": {
+            "city": "San Francisco",
+            "state": "CA",
+            "country": "USA"
+          }
+        },
+        "account_status": "active",
+        "subscription": {
+          "plan": "premium",
+          "start_date": "2023-01-15",
+          "renewal_date": "2024-01-15"
+        }
+      },
+      {
+        "user_id": 2,
+        "username": "janesmith",
+        "profile": {
+          "full_name": "Jane Smith",
+          "age": 28,
+          "location": {
+            "city": "Austin",
+            "state": "TX",
+            "country": "USA"
+          }
+        },
+        "account_status": "active",
+        "subscription": {
+          "plan": "basic",
+          "start_date": "2023-06-20",
+          "renewal_date": "2024-06-20"
+        }
+      },
+      {
+        "user_id": 3,
+        "username": "bobwilson",
+        "profile": {
+          "full_name": "Bob Wilson",
+          "age": 45,
+          "location": {
+            "city": "New York",
+            "state": "NY",
+            "country": "USA"
+          }
+        },
+        "account_status": "inactive",
+        "subscription": {
+          "plan": "premium",
+          "start_date": "2022-03-10",
+          "renewal_date": "2023-03-10"
+        }
+      }
+    ],
+    "metadata": {
+      "total_users": 3,
+      "active_users": 2,
+      "generated_at": "2024-10-30T12:00:00Z"
+    }
+  }
+}
